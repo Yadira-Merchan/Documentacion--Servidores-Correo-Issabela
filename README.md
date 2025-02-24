@@ -7,7 +7,7 @@ En este documento, se detallarán los procedimientos necesarios para implementar
 
 ## 📌 Contenido  
 - [Introducción](#introducción)  
-- [Requisitos Previos](#requisitos-previos)  
+- [Requisitos Previos](#requisitos-previos)  https://github.com/Yadira-Merchan/Documentacion--Servidores-Correo-Issabela/blob/main/README.md#documentaci%C3%B3n-de-servidores-de-correo---isabel
 - [Instalación del Servidor](#instalación-del-servidor)  
 - [Configuración Básica](#configuración-básica)  
 - [Administración y Seguridad](#administración-y-seguridad)  
